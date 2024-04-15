@@ -1,0 +1,12 @@
+admin
+root
+mongo
+mongodb
+mongoadmin
+mongodbadmin
+administrator
+dba
+dbadmin
+db
+superadmin
+superman
