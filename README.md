@@ -41,7 +41,7 @@ python mongpyBruter.py -m unique -t 127.0.0.1 -n true
 ```
 Launch single credentials prove over a target
 ```python
-python mongpyBruter.py -m unique -t 127.0.0.1 -n true 
+python mongpyBruter.py -m unique -t 127.0.0.1 -u root -p root -n false
 ```
 Launch dictionary attack from massive targets
 ```python
